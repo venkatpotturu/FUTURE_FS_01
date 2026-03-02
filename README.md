@@ -15,7 +15,7 @@ It serves as my digital resume for recruiters and collaborators.
 
 ## 🚀 Live Website
 
-👉 https://YOUR_USERNAME.github.io/FUTURE_FS_01/
+👉 https://venkatpotturu.github.io/FUTURE_FS_01/
 
 ---
 
@@ -77,9 +77,9 @@ FUTURE_FS_01
 
 Feel free to connect:
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: yourmail@gmail.com
+- GitHub: https://github.com/venkatpotturu
+- LinkedIn: https://linkedin.com/in/venkat-potturu-772948324
+- Email: potturuvenkat10@gmail.com
 
 ---
 
@@ -96,3 +96,4 @@ This project was created to:
 - Showcase my technical abilities
 - Present my work professionally
 - Build an online developer presence
+
